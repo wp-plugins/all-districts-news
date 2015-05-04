@@ -1,7 +1,7 @@
 === All Districts News ===
 Contributors: emran.net
 Tags: bangladesh, news, districts, category widget
-Requires at least: 3.0.1
+Requires at least: 4.2.1
 Tested up to: 3.4
 Stable tag: 4.2
 License: GPLv2 or later
